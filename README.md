@@ -1,8 +1,8 @@
 👋🏽: Hi there! Welcome to my Github account. My name is Esther Adejola.😁
 
-💪🏽: I am currently learning and working on C/Python tasks.
+💪🏽: I am currently learning and working on fullstack/CRUD web apps.
 
-✍🏽: I am open to learn and contribute to projects 😁.
+✍🏽: I am open to learn and contribute to open source projects 😁.
 
 📧: Have any questions? Send me an e-mail at adejolanu@gmail.com
 
