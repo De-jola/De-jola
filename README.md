@@ -1,46 +1,30 @@
-👋🏽: Hi there! Welcome to my Github account. My name is Esther Adejola.😁
+👋 Welcome to My GitHub!
+👩‍💻 Esther Adejola
+💻 Frontend Developer in Training | 🌟 Aspiring Fullstack Developer
 
-💪🏽: I am currently learning and working on fullstack/CRUD web apps.
+🚀 Passionate about building scalable web applications, learning modern technologies, and contributing to open-source projects. Currently exploring React, Tailwind CSS, Node.js, and Sass to bring creative ideas to life.
 
-✍🏽: I am open to learn and contribute to open source projects 😁.
-
-📧: Have any questions? Send me an e-mail at adejolanu@gmail.com
-
-👋🏽: Thank you for visiting!
-
-
-:fire: My Stats :
-
-![De-jola's GitHub stats](https://github-readme-stats.vercel.app/api?username=De-jola&show_icons=true&theme=jolly)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=De-jola&theme=jolly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De-jola)](https://github.com/De-jola/github-readme-stats)
-<div id="badges">
-  <a href="www.linkedin.com/in/esther-adejola-497a621b7">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/Anu25137337">
-    <img src="https://img.shields.io/badge/Twitter-darkblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=De-jola&style=flat-square&color=blue" alt=""/>
-
-
- :hammer_and_wrench: Languages and Tools :
- 
- 
- 
- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-</div>
-
-
-
-
+🌱 About Me
+💪 Evolving Developer: Focused on learning and implementing full-stack web development.
+🌍 Open Source Advocate: Excited to contribute to collaborative projects.
+📈 Growth-Oriented: Always ready to pick up new challenges and skills.
+🎯 Focus Areas: React, JavaScript, and responsive, efficient design.
+📫 Let’s Connect:
+Email: adejolanu@gmail.com
+LinkedIn: Esther Adejola
+Twitter: @miss_ayase_e
+🛠️ Tech Stack
+<div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp; </div>
+🔥 My GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=De-jola&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>&nbsp; <img src="http://github-readme-streak-stats.herokuapp.com?user=De-jola&theme=radical" alt="GitHub Streak" width="48%"/> </div>
+📊 Top Languages
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=De-jola&layout=compact&theme=radical" alt="Top Languages" width="48%"/> </div>
+🚀 Goals for 2025
+✅ Master React and Node.js.
+✅ Build and deploy dynamic full-stack projects.
+✅ Contribute to at least 3 open-source projects.
+✅ Land a remote frontend development job.
+🌟 Fun Facts
+🎨 I love combining creativity with tech to craft visually appealing designs.
+🌍 I’m passionate about exploring opportunities to create scalable, impactful software solutions.
+📺 I love anime
